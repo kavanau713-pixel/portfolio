@@ -38,6 +38,8 @@ body{
     height:120px;
     width:120px;
     border-radius:50%;
+    object-fit:cover;
+    object-position: center;
     border:1px solid  rgb(58,58,58);
 }
 .profile h2{
